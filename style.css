@@ -37,3 +37,20 @@ footer {
   color: white;
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  body p {
+    font-size: 24px;
+  }
+
+  .col-sm-12 {
+    width: 100%;
+    padding: 20px;
+  }
+
+  .wrapper {
+    /* Box-model */
+    width: 100%;
+    padding: 20px;
+  }
+}
