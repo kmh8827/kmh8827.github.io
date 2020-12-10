@@ -1,7 +1,8 @@
+
 body {
   background-color: lightgray; 
 }
-
+/*For the line right below section headings*/
 hr {
 width: 100%;
 color: yellow;
@@ -20,7 +21,7 @@ color: yellow;
 .headingStyle {
   color: darkgray;
 }
-
+/*Used to color the nav bar and align part of it to the right*/
 .navbar-nav {
   margin-left: auto;
   background-color: lightgray;
@@ -29,6 +30,7 @@ color: yellow;
   background-color:darkgray;
   color:white;
 }
+/* Adds a sticky footer to the bottom of the page */
 footer {
   position: fixed;
   left: 0;
@@ -38,9 +40,10 @@ footer {
   color: white;
   text-align: center;
 }
-
+/* Makes the font larger for smaller screens */
 @media screen and (max-width: 768px) {
   body p {
     font-size: 24px;
   }
+
 }
