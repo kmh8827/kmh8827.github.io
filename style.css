@@ -30,6 +30,10 @@ color: yellow;
   background-color:darkgray;
   color:white;
 }
+.portfolio-picture {
+  width:  500px;
+  height: 300px;
+}
 /* Adds a sticky footer to the bottom of the page */
 footer {
   position: fixed;
