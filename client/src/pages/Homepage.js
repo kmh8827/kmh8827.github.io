@@ -8,7 +8,7 @@ function HomePage() {
                 <div class="row justify-content-center">
                     <div class="col-md-8">
                         <div class="page-header">
-                            <h1 class="headingStyle">About Me</h1>
+                            <h1 class="headingStyle">About Me Hello</h1>
                         </div>
                         <hr />
                         <div class="row">
