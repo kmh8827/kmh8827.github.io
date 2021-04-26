@@ -5,7 +5,6 @@ import Header from "../src/components/Header";
 import Homepage from "../src/pages/Homepage";
 import Contact from "../src/pages/Contact";
 import Portfolio from "../src/pages/Portfolio";
-import NoMatch from "../src/pages/NoMatch";
 
 function App() {
   return (
@@ -13,18 +12,9 @@ function App() {
       <div>
         <Header />
         <Switch>
-          <Route exact path={["/"]}>
-            <Homepage />
-          </Route>
-          <Route exact path={["/portfolio"]}>
-            <Portfolio />
-          </Route>
-          <Route exact path={["/Contact"]}>
-            <Contact />
-          </Route>
-          <Route>
-            <NoMatch />
-          </Route>
+          <Route exact path={["/"]} component={Homepage} />
+          <Route exact path={["/Portfolio"]} component={Portfolio} />
+          <Route exact path={["/Contact"]} component={Contact} />
         </Switch>
         <Footer />
       </div>

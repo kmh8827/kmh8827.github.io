@@ -1,4 +1,5 @@
 import React from "react";
+import SelfPicture from "../assets/self-picture2.jpg";
 
 function HomePage() {
     return (
@@ -12,7 +13,7 @@ function HomePage() {
                         <hr />
                         <div class="row">
                             <section class="col-md-6">
-                                <img src="assets/Self-PictureSmall.jpg" height="250px" width="300px" alt=""/>
+                                <img src={SelfPicture} height="10%" width="10%" alt=""/>
                             </section>
                             <aside class="col-md-6">
                                 <p class="content">My name is Kevin Hellman. I was born in Durham, North Carolina, but moved shortly after to Apex. I went to Apex elementary, middle, and high school.</p>
