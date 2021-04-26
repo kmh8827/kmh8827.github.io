@@ -5,18 +5,17 @@ import EmployeeDirectory from "../assets/employeeDirectory.png";
 import Weather from "../assets/weather.png";
 import Budget from "../assets/budget.png";
 import Burger from "../assets/eatBurger.png";
+import "../assets/portfolio.css";
 
 function Portfolio() {
     return (
         <div>
             <main class="container bg-dark">
-                
-                <div class="row">
+
                     <div class="page-header">
                         <h1 class="headingStyle">Portfolio</h1>
-                        <hr />
+                        <hr class="headingLine" />
                     </div>
-                </div>
 
                 <div class="row">
 
