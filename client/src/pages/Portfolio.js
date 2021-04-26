@@ -9,8 +9,8 @@ import "../assets/css/portfolio.css";
 
 function Portfolio() {
     return (
-        <div>
-            <main class="container bg-dark">
+        <div class="body">
+            <main class="container">
 
                     <div class="page-header">
                         <h1 class="headingStyle">Portfolio</h1>
