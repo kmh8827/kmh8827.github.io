@@ -1,11 +1,11 @@
 import Project from "../components/Project";
-import TravelBuddy from "../assets/project1.png";
-import Dumbbells from "../assets/dumbells.png";
-import EmployeeDirectory from "../assets/employeeDirectory.png";
-import Weather from "../assets/weather.png";
-import Budget from "../assets/budget.png";
-import Burger from "../assets/eatBurger.png";
-import "../assets/portfolio.css";
+import TravelBuddy from "../assets/images/project1.png";
+import Dumbbells from "../assets/images/dumbells.png";
+import EmployeeDirectory from "../assets/images/employeeDirectory.png";
+import Weather from "../assets/images/weather.png";
+import Budget from "../assets/images/budget.png";
+import Burger from "../assets/images/eatBurger.png";
+import "../assets/css/portfolio.css";
 
 function Portfolio() {
     return (

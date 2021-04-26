@@ -1,19 +1,18 @@
 import React from "react";
-import SelfPicture from "../assets/self-picture2.jpg";
+import SelfPicture from "../assets/images/self-picture2.jpg";
+import "../assets/css/Homepage.css";
 
 function HomePage() {
     return (
-        <div>
-            <main class="container bg-dark">
+        <div className="body">
+            <main class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-8">
-                        <div class="page-header">
-                            <h1 class="headingStyle">About Me Hello</h1>
-                        </div>
+                            <h1 class="headingStyle">About Me</h1>
                         <hr />
                         <div class="row">
                             <section class="col-md-6">
-                                <img src={SelfPicture} height="10%" width="10%" alt=""/>
+                                <img src={SelfPicture} height="70%" width="60%" alt="" className="selfPicture"/>
                             </section>
                             <aside class="col-md-6">
                                 <p class="content">My name is Kevin Hellman. I was born in Durham, North Carolina, but moved shortly after to Apex. I went to Apex elementary, middle, and high school.</p>
