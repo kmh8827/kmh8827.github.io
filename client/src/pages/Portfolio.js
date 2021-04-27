@@ -9,7 +9,7 @@ import "../assets/css/portfolio.css";
 
 function Portfolio() {
     return (
-        <div class="body">
+        <div className="body">
             <main class="container">
 
                     <div class="page-header">

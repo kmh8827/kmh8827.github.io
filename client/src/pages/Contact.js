@@ -2,7 +2,7 @@ import React from "react";
 
 function Contact() {
     return (
-        <div class="body">
+        <div className="body">
             <main class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-8">
