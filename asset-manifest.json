@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3df83782.chunk.css",
+    "main.js": "/static/js/main.f7d2aab7.chunk.js",
+    "main.js.map": "/static/js/main.f7d2aab7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.37893748.js",
+    "runtime-main.js.map": "/static/js/runtime-main.37893748.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c7445111.chunk.js": "/static/js/2.c7445111.chunk.js",
+    "static/js/2.c7445111.chunk.js.map": "/static/js/2.c7445111.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.3df83782.chunk.css.map": "/static/css/main.3df83782.chunk.css.map",
+    "static/js/2.c7445111.chunk.js.LICENSE.txt": "/static/js/2.c7445111.chunk.js.LICENSE.txt",
+    "static/media/budget.3856eabf.png": "/static/media/budget.3856eabf.png",
+    "static/media/dumbells.c2cc2e74.png": "/static/media/dumbells.c2cc2e74.png",
+    "static/media/eatBurger.07bd9e62.png": "/static/media/eatBurger.07bd9e62.png",
+    "static/media/employeeDirectory.7f95ae1e.png": "/static/media/employeeDirectory.7f95ae1e.png",
+    "static/media/project1.abe50296.png": "/static/media/project1.abe50296.png",
+    "static/media/self-picture2.a8eb3955.jpg": "/static/media/self-picture2.a8eb3955.jpg",
+    "static/media/weather.ea6626e4.png": "/static/media/weather.ea6626e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37893748.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c7445111.chunk.js",
+    "static/css/main.3df83782.chunk.css",
+    "static/js/main.f7d2aab7.chunk.js"
+  ]
+}
